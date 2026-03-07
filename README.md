@@ -1,2 +1,2 @@
 # ITA-Assignment
-For the assignments in ITA 
+For all the assignments provided in ITA subject neatly arranged for your viewing convinience 
