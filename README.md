@@ -1,2 +1,3 @@
 # ITA-Assignment
-For all the assignments provided in ITA subject neatly arranged for your viewing convinience 
+Below is the link that leads to opening an html file which presents the output for the final project. 
+https://trap-32.github.io/ITA-Assignment/amex_dashboard.html 
